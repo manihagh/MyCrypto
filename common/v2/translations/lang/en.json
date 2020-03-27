@@ -487,8 +487,8 @@
     "SUBMITTING": "Submitting...",
     "ASSET": "Asset",
     "INVALID_AMOUNT_ERROR": "Amount should be a positive number",
-    "DASHBOARD_ACTIONS_BUY_ASSETS_TITLE": "Buy ETH",
-    "DASHBOARD_ACTIONS_BUY_ASSETS_SUBTITLE": "Hassle-free ETH, delivered directly to your account",
+    "DASHBOARD_ACTIONS_BUY_TITLE": "Buy Crypto Assets",
+    "DASHBOARD_ACTIONS_BUY_SUBTITLE": "Hassle-free cryptocurrency, delivered directly to your account",
     "DASHBOARD_ACTIONS_SWAP_ASSETS_TITLE": "Swap Assets",
     "DASHBOARD_ACTIONS_SWAP_ASSETS_SUBTITLE": "Exchange instantly without leaving MyCrypto",
     "DASHBOARD_ACTIONS_SEND_ASSETS_TITLE": "Send Assets",
@@ -658,7 +658,6 @@
     "SELECT_MEMBERSHIP": "Select Your Membership Plan",
     "MEMBERSHIP_DETAILS": "Membership Details",
     "COST": "Cost",
-    "NEW_MEMBER": "You are now a MyCrypto Member!",
     "ZAP_DASHBOARD_PANEL_HEADER": "Put your ETH to work for you",
     "ZAPS_AVAIL": "MyCrypto’s DeFiZap integration will initially allow you to access three Zaps:",
     "ZAPS_AVAIL_DAI_UNIPOOL": "DAI Unipool: Swaps 50% of ETH for DAI (using Uniswap) and contributes both ETH & DAI to Uniswap DAI Pool.",
@@ -716,6 +715,9 @@
     "MEMBERSHIP_STEP2_TEXT": "The contract you approved will complete the membership purchase as soon as you confirm the transaction below.",
     "PURCHASE_MEMBERSHIP": "Purchase Membership",
     "PURCHASE_MEMBERSHIP_RECEIPT": "Purchase Membership Receipt",
-    "NO_RELEVANT_ACCOUNTS": "No accounts with the required amount available"
+    "NO_RELEVANT_ACCOUNTS": "No accounts with the required amount available",
+		"NEW_MEMBER": "You are now a MyCrypto Member!",
+		"CHECKOUT_CTA": "Purchase & Send to MyCrypto Account",
+		"CHECKOUT_OTHER_CTA": "Purchase & Send to Another Account"
   }
 }
